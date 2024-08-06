@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/page": "app/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/blog-sidebar/page": "app/blog-sidebar/page.js",
+  "/signin/page": "app/signin/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/blog-details/page": "app/blog-details/page.js",
+  "/error/page": "app/error/page.js"
+}
